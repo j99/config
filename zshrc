@@ -15,7 +15,7 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=$PATH:/Users/jasonsilberman/.rvm/gems/ruby-1.9.3-p392/bin:/Users/jasonsilberman/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/jasonsilberman/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/jasonsilberman/.rvm/bin:/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/bin:/usr/local/sbin:~/bin
+export PATH=$PATH:/Users/username/.rvm/gems/ruby-1.9.3-p392/bin:/Users/username/.rvm/gems/ruby-1.9.3-p392@global/bin:/Users/username/.rvm/rubies/ruby-1.9.3-p392/bin:/Users/username/.rvm/bin:/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/bin:/usr/local/sbin:~/bin
 
 # aliases
 # ../ cds
