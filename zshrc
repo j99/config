@@ -41,3 +41,4 @@ alias ssvr='/System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resource
 alias nn='node .'
 alias cloc='perl /Users/jason/cloc.pl'
 alias r!='source ~/.zshrc'
+alias isim='open /Applications/Xcode.app/Contents/Applications/iPhone\ Simulator.app'
